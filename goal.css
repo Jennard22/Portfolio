@@ -1,0 +1,206 @@
+body{
+background-color: #F3D7CA;
+
+
+
+
+}
+.header{
+ background-color: #B19470;
+  margin-top: -10px;
+  margin-left: -8px;
+  margin-right: -8px;
+  height: 90px;;
+  border: 3px solid #B19470;
+
+}
+.logo{
+   display: flex;
+   margin-top: -75px;
+   margin-left: 20px;
+  text-align: left;
+  vertical-align: middle;
+
+}
+.logo-name{
+
+  margin-top: -65px;
+   margin-left: 140px;
+  text-align: left;
+  font-size: 30px;
+
+
+
+}
+.sidepanel{
+
+
+  color: #ffff;
+  text-align: right;
+  word-spacing: 60px;
+  margin-right: 150px;
+  margin-top: 50px;
+  font-size: 20px;
+}
+.welcome{
+    width: 990px;
+    height: 350px;
+    padding: 3px;
+    border: 1px solid #1c2333;
+    margin-top: 90px;
+    background-color: #F9EFDB;
+    margin-left: auto;
+    margin-right: auto; 
+   margin-bottom: 20px;
+}
+.welcome-text{
+  margin-top: 220px;
+  margin-left: 20px;
+  font-size: 15px;
+  font-weight: bold;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+ text-align: left;
+
+}
+.welcome-image{
+   margin-top: -260px;
+   margin-left: 420px;
+  text-align: left;
+  vertical-align: middle;
+  height: 1500px;
+  width: 1500px;
+}
+.sidepeek{
+  margin-left: 360px;
+  margin-top: -280px;
+}
+
+
+.box{
+width: 990px;
+  height: 350px;
+  padding: 3px;
+  border: 1px solid #1c2333;
+  margin-top: 90px;
+  background-color: #F9EFDB;
+  margin-left: auto;
+  margin-right: auto; 
+ margin-bottom: 20px;
+}
+
+
+
+
+
+
+
+
+.goal img{
+
+  width: 30%;
+  height: 30%;
+  margin-left: 350px;
+
+
+}
+
+
+
+
+.goaltext{
+
+  font-size: 20px;
+  text-align: justify;
+  margin-top:  20px;
+}
+
+
+.sidepeek{
+  margin-left: 283px;
+  margin-top: -280px;
+
+}
+
+
+.rfid{
+
+  margin-left: 800px;
+  margin-top: -100px;
+}
+
+
+
+
+
+
+
+.controller{
+
+   margin-left: 570px;
+   margin-top: 280px;
+
+  
+}
+
+
+
+.bearpc{
+   margin-left: 1050px;
+   margin-top: -125px;
+}
+
+
+
+
+.bearguy{
+   max-height: 725px;
+   max-width: 225px;
+   margin-top: 100px;
+}
+
+
+.bearguy img{
+  width: 100%;
+  height: 100%;
+
+}
+
+
+
+
+
+.haro{
+   max-height: 3025px;
+   max-width: 225px;
+   margin-top: -200px;
+  margin-left: 1400px;
+}
+
+
+.haro img{
+  width: 100%;
+  height: 100%;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+.footer{
+
+
+  background-color: #B19470;
+  margin-top: 755px;
+  margin-left: -8px;
+  margin-right: -8px;
+  height: 90px;;
+  border: 3px solid #B19470;;
+  text-align: center;
+}
